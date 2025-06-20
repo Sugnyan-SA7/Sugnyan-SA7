@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sugnyan S Abbigeri</h1>
 
 Welcome to my GitHub profile!  
-I'm a passionate and curious Computer Science undergrad at **PES University**, Bengaluru, specializing in **Machine Learning**, **Big Data**, **Cloud Computing**, and **Backend Systems**.
-
----
-
-## 🚀 About Me
-
-Hi, I'm Sugnyan S Abbigeri, a Computer Science undergrad at PES University with a passion for building scalable systems, solving real-world problems using Machine Learning, Big Data, and Cloud Computing.
-
-🔍 I love working at the intersection of AI, backend development, and distributed systems. 
+I'm a passionate and curious Computer Science undergrad at **PES University**, Bengaluru, with a passion for building scalable systems and interested in **Machine Learning**, **Big Data**, **Cloud Computing**, and **Backend Systems**.
 
 ---
 
