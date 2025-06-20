@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sugnyan S Abbigeri</h1>
 
-<h2>
+<h3>
 Welcome to my GitHub profile! <br>
 I'm a passionate and curious Computer Science undergrad at <strong>PES University</strong>, Bengaluru, with a passion for building scalable systems and interested in <strong>Machine Learning</strong>, <strong>Big Data</strong>, <strong>Cloud Computing</strong>, and <strong>Backend Systems</strong>.
-</h2>
+</h3>
 
 ---
 ## 🛠️ Tech Stack & Tools
