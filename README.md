@@ -54,8 +54,3 @@ I'm a passionate and curious Computer Science undergrad at <strong>PES Universit
 
 ### Thanks for visiting my profile!  
 Feel free to ⭐ any repo or reach out for collaboration!
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sugnyan-sa7&show_icons=true&locale=en&layout=compact" alt="sugnyan-sa7" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sugnyan-sa7&show_icons=true&locale=en" alt="sugnyan-sa7" /></p>
